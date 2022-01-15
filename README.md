@@ -1,7 +1,7 @@
 ## Welcome Stranger!
 
 <audio controls="controls">
-  <source type="audio/mp3" src="./audio/1.mp3"></source>
+  <source type="audio/mp3" src="./audio/1.wav"></source>
 </audio>
 
 <video controls="controls">

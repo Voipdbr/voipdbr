@@ -1,9 +1,3 @@
 ## Welcome Stranger!
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=Dg0IjOzopYU" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=Dg0IjOzopYU"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<video tabindex="-1" class="video-stream html5-main-video" controlslist="nodownload" style="width: 1137px; height: 640px; left: 0px; top: 0px;" src="blob:https://www.youtube.com/2994b7ac-60e4-4ed8-9021-f9ca295951b1"></video>

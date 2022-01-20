@@ -4,11 +4,50 @@ Olá! 👋 Meu nome é Ismael José, sou um desenvolvedor de software e amante d
 
 ![Voipdbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=voipdbr&count_private=true)
 
-[<img align="left" alt="ismaeljose.site" width="30px" src="https://ismaeljose.site/favicon.ico" />][https://ismaeljose.site]
-[<img align="left" alt="Ismael José | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ismael José | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/voipdbr]
-[<img align="left" alt="Ismael José | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ismael-josé-983424209/]
-[<svg aria-hidden="true" focusable="false" data-prefix="fab" width="22px" data-icon="facebook" class="svg-inline--fa fa-facebook fa-w-16 socialmedia-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>][https://www.facebook.com/VoipDevStation-100697565491151/]
+<style>
+    .socialmedia-icon-youtube{
+        transition: 1s;
+    }
+    .socialmedia-icon-youtube:hover{
+        color: red;
+        transition: 1s;
+        width: 60px;
+    }
+    .socialmedia-icon{
+        transition: 1s;
+    }
+    .socialmedia-icon:hover{
+        transition: 1s;
+        color: white;
+        width: 60px;
+    }
+    .ismaeljose{
+        transition: 1s;
+        fill: #3794ff;
+        width: 55px;
+    }
+    .ismaeljose:hover{
+        transition: 1s;
+        fill: white;
+        width: 60px;
+    }
+</style>
+
+
+<div>
+
+[<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 180.000000 180.000000" class="ismaeljose" preserveAspectRatio="xMidYMid meet">
+<g transform="translate(0.000000,180.000000) scale(0.100000,-0.100000)" stroke="none">
+<path d="M1295 1738 c-21 -11 -70 -58 -60 -58 3 0 -8 -27 -25 -60 -17 -33 -28 -60 -25 -60 4 0 -1 -10 -9 -22 -9 -12 -16 -30 -16 -40 0 -10 -4 -18 -10 -18 -5 0 -9 -3 -8 -7 1 -5 -1 -18 -6 -30 -8 -25 -26 -29 -58 -12 -11 6 -42 11 -69 11 -28 -1 -49 4 -49 10 0 7 -18 9 -50 6 -27 -3 -52 -3 -54 0 -8 7 -486 3 -498 -4 -6 -4 -32 -8 -57 -8 l-46 -1 -8 -165 c-7 -166 -2 -698 10 -887 l6 -103 46 -22 c43 -22 60 -23 284 -26 168 -3 242 0 252 8 8 7 27 9 48 5 46 -9 131 10 187 40 25 14 53 28 63 31 9 4 17 10 17 15 0 5 14 24 31 42 37 38 109 184 109 220 0 14 5 29 11 32 12 8 11 437 -2 445 -4 3 -10 27 -13 55 -3 27 -10 51 -16 53 -5 2 -7 8 -4 13 3 6 -2 21 -11 35 -9 13 -13 30 -9 36 4 6 3 8 -3 5 -6 -4 -15 5 -21 18 -9 20 -7 34 14 82 14 32 31 61 36 64 6 4 8 14 5 23 -4 9 -2 16 3 16 6 0 10 6 10 14 0 18 42 120 53 127 5 3 8 9 7 13 -1 3 2 20 5 37 5 24 2 36 -16 55 -25 27 -27 27 -54 12z m-265 -392 c0 -4 9 -6 20 -3 23 6 30 -10 17 -40 -10 -23 -46 -37 -70 -27 -8 3 -18 1 -21 -4 -3 -6 -24 -8 -47 -5 -29 4 -44 2 -50 -8 -17 -27 -44 4 -47 55 l-3 47 100 -3 c56 -2 101 -7 101 -12z m-310 -25 c5 -11 10 -35 10 -54 0 -32 -3 -35 -47 -48 -47 -13 -115 -52 -162 -93 -39 -35 -67 -88 -79 -152 -16 -80 0 -129 54 -165 33 -23 48 -27 111 -26 40 0 73 3 73 7 0 9 67 29 74 22 3 -3 6 -58 6 -123 0 -132 0 -132 -77 -145 -49 -7 -100 16 -113 51 -5 14 -14 25 -19 25 -5 0 -11 9 -14 20 -3 14 -14 20 -32 20 -91 0 -63 -121 47 -200 38 -27 48 -30 123 -30 44 0 86 5 92 11 7 7 12 1 15 -21 3 -22 0 -34 -9 -37 -18 -7 -307 4 -343 13 -48 11 -50 29 -50 483 0 326 3 425 12 434 8 8 59 13 133 16 66 2 122 5 124 7 13 12 61 2 71 -15z m453 -131 c-3 -12 0 -20 6 -20 7 0 11 -6 9 -12 -1 -7 4 -57 11 -112 17 -122 10 -272 -19 -381 -25 -97 -34 -117 -79 -175 -43 -55 -61 -69 -83 -70 -10 0 -18 -5 -18 -11 0 -6 -16 -9 -37 -7 l-38 3 -3 58 -3 58 58 63 c32 35 73 94 92 131 30 59 33 72 26 113 -4 26 -8 57 -9 69 0 11 -3 20 -6 18 -3 -2 -14 9 -25 24 -24 36 -66 51 -143 51 l-62 0 0 79 0 79 118 4 c88 3 123 8 143 21 14 9 29 14 33 10 4 -5 7 -3 6 2 -4 18 0 25 14 25 9 0 12 -7 9 -20z m-440 -117 c3 -21 6 -59 6 -85 1 -45 0 -47 -34 -59 -19 -7 -35 -17 -35 -21 0 -4 -29 -8 -65 -8 -65 0 -65 0 -65 29 0 16 7 34 15 41 8 7 15 19 15 28 0 20 29 52 47 52 8 0 23 9 35 20 12 11 30 20 40 20 10 0 18 5 18 10 0 6 4 10 9 10 5 0 12 -17 14 -37z m248 -209 c22 -27 -3 -116 -48 -168 l-38 -44 -8 41 c-4 23 -8 69 -10 102 -2 58 -1 60 28 72 42 16 60 16 76 -3z"/>
+<path d="M1465 1630 c-14 -15 -16 -29 -11 -67 l6 -48 -22 26 c-45 52 -108 43 -108 -14 0 -22 9 -33 47 -57 26 -17 40 -30 32 -30 -21 0 -49 -36 -56 -72 -5 -24 -2 -33 13 -41 35 -20 67 -14 96 18 l27 30 -4 -37 c-4 -31 0 -40 21 -57 32 -26 45 -26 70 -3 21 18 27 81 9 94 -21 16 5 18 29 3 32 -21 68 -25 92 -11 25 15 24 36 -3 66 -13 14 -23 28 -23 33 0 4 -9 3 -21 -3 -40 -22 -41 -4 0 23 30 20 40 33 38 50 -5 52 -57 65 -109 27 -30 -22 -30 -22 -23 -1 3 12 2 21 -3 21 -6 0 -8 9 -5 20 12 46 -57 69 -92 30z"/>
+</g>
+</svg>](https://ismaeljose.site)
+[<svg aria-hidden="true" focusable="false" data-prefix="fab" width="50px" data-icon="youtube" class="svg-inline--fa fa-youtube fa-w-18 socialmedia-icon-youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>](youtube)
+[<svg aria-hidden="true" focusable="false" data-prefix="fab" width="50px" data-icon="twitter" class="svg-inline--fa fa-twitter fa-w-16 socialmedia-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>](https://twitter.com/voipdbr)
+[<svg aria-hidden="true" focusable="false" data-prefix="fab" width="50px" data-icon="linkedin" class="svg-inline--fa fa-linkedin fa-w-14 socialmedia-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>](https://www.linkedin.com/in/ismael-josé-983424209/)
+[<svg aria-hidden="true" focusable="false" data-prefix="fab" width="50px" data-icon="facebook" class="svg-inline--fa fa-facebook fa-w-16 socialmedia-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>](https://www.facebook.com/VoipDevStation-100697565491151/)
+
+</div>
 
 ### 📺 Latest YouTube Videos
 
